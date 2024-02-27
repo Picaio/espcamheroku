@@ -26,7 +26,7 @@ Este proyecto consiste en establecer una conexión WebSocket entre una ESPCAM (c
 
 ## Ejemplo de Interfaz 📋
 
-![Interfaz de la Web App](web_app.png)
+🎥[Video de Funcionamiento](https://www.youtube.com/watch?v=2IvCKQWSlgo)
 
 ## Contribuciones 🚀
 
